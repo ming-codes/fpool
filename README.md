@@ -3,6 +3,8 @@ NodeJS fork pool with option to use as worker pool
 
 # fpool - Work in Progress
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ming-codes/fpool.svg)](https://greenkeeper.io/)
+
 NodeJS fork pool with option to use as worker pool
 
 ## Installation
